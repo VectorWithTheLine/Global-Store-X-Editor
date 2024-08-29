@@ -4,7 +4,7 @@
 ![Screenshot 2024-07-25 220950](https://github.com/user-attachments/assets/6b423a6d-dd31-4f36-907b-54d6db8bfdc1)
 
 
-#### This tool allows you to view and edit the internal structure of "Global Store X" files, which are typically used to store various data types in a structured format. This guide will help you understand how to use the application and make the most out of its features.
+### This tool allows you to view and edit the internal structure of "Global Store X" files, which are typically used to store various data types in a structured format. This guide will help you understand how to use the application and make the most out of its features.
 
 ### 1. Interface Overview
 
